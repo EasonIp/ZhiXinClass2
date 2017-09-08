@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="vga_b[1]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_b[0]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_g[2]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_g[1]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_g[0]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_r[2]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_r[1]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_r[0]" source="Pin Planner" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>
