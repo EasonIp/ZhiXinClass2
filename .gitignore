@@ -1,4 +1,5 @@
 ###sim
+modelsim/
 verilog_libs/
 rtl_work/
 *.wlf
