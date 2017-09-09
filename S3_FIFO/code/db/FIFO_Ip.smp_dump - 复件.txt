@@ -1,0 +1,10 @@
+
+State Machine - |top_fifo|wr_fifo:inst_wr_fifo|current_stage
+Name current_stage.01 
+current_stage.00 0 
+current_stage.01 1 
+
+State Machine - |top_fifo|rd_fifo:inst_rd_fifo|current_stage
+Name current_stage.01 
+current_stage.00 0 
+current_stage.01 1 
