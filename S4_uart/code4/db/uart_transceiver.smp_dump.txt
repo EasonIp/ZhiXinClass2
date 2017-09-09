@@ -1,0 +1,15 @@
+
+State Machine - |top_uart_transceiver|key_scan:inst_key_scan|state
+Name state.s0 state.s2 state.s1 
+state.s0 0 0 0 
+state.s1 1 0 1 
+state.s2 1 1 0 
+
+State Machine - |top_uart_transceiver|seg7:inst_seg7|state
+Name state.s5 state.s4 state.s3 state.s2 state.s1 state.s0 
+state.s0 0 0 0 0 0 0 
+state.s1 0 0 0 0 1 1 
+state.s2 0 0 0 1 0 1 
+state.s3 0 0 1 0 0 1 
+state.s4 0 1 0 0 0 1 
+state.s5 1 0 0 0 0 1 
